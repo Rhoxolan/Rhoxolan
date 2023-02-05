@@ -56,4 +56,4 @@ Practical works and homeworks on the subject "HTML5 and CSS 3" (17.10.2022 - 07.
 Practical works and homeworks on the subject "UML and Design Patterns" (09.11.2022 - 25.11.2022; 17.12.2022) at STEP IT Academy in Kryvyi Rih.<br>
 
 ### 12. [JavaScript_Basics-JQuery_Course](https://github.com/Rhoxolan/JavaScript_Basics-JQuery_Course)<br>
-Practical works and homeworks on the subject "JavaScript scripting language and jQuery library" (28.11.2022 - 18.01.2023) at STEP IT Academy in Kryvyi Rih.
+Practical works and homeworks on the subject "JavaScript scripting language and jQuery library" (28.11.2022 - 13.01.2023) at STEP IT Academy in Kryvyi Rih.
