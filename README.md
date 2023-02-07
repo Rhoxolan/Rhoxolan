@@ -18,7 +18,7 @@ Release date: 05.06.2022<br><br>
 # Other projects and education materials
 See my other projects and my education materials such as practical works and homeworks on the disclosure widget!<br>
 
-<details><summary><b>Other projects and education materials</b></summary>
+<details><summary>Other projects and education materials</summary>
 
 ### [Менеджер Дел](https://github.com/Rhoxolan/Menedzher_Del)<br>
 Examination work on the subject "Basics of programming on C++" at STEP IT Academy in Kryvyi Rih. Presented on 23.05.2021.<br><br>
