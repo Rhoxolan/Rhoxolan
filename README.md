@@ -18,7 +18,7 @@ Release date: 05.06.2022<br><br>
 # Other projects and education materials
 See my other projects and my education materials such as practical works and homeworks on the disclosure widget!<br>
 
-<details><summary>Other projects and education materials</summary>
+<details><summary><b>Other projects and education materials</b></summary>
 
 ### [Менеджер Дел](https://github.com/Rhoxolan/Menedzher_Del)<br>
 Examination work on the subject "Basics of programming on C++" at STEP IT Academy in Kryvyi Rih. Presented on 23.05.2021.<br><br>
@@ -33,6 +33,7 @@ Practical works and homeworks on the subject "Microsoft .NET platform and C# pro
 
 ### [WinForms-WPF_Course](https://github.com/Rhoxolan/WinForms-WPF_Course)<br>
 Practical works and homeworks on the subject "The basics of developing applications on Windows Forms and WPF" (25.04.2022 - 03.06.2022) at STEP IT Academy in Kryvyi Rih.<br><br>
+![Screenshot from WF-WPF Course](https://github.com/Rhoxolan/WinForms-WPF_Course/blob/master/HW_2022.05.04/Screenshot_2.png)<br><br>
 
 ### [DBT-MS_SQL_Server_Course](https://github.com/Rhoxolan/DBT-MS_SQL_Server_Course)<br>
 Practical works and homeworks on the subject "Database Theory. MS SQL Server" (10.06.2022 - 01.07.2022) at STEP IT Academy in Kryvyi Rih.<br><br>
@@ -57,9 +58,12 @@ Team project on C# Windows Forms .NET 6 at STEP IT Academy in Kryvyi Rih. Work w
 
 ### [HTML5-CSS3_Course](https://github.com/Rhoxolan/HTML5-CSS3_Course)<br>
 Practical works and homeworks on the subject "HTML5 and CSS 3" (17.10.2022 - 07.11.2022) at STEP IT Academy in Kryvyi Rih.<br><br>
+![1st screenshot from HTML-CSS course](https://github.com/Rhoxolan/HTML5-CSS3_Course/blob/main/2022.11.02_PW/MyBoards_screenshot.png)
+![2st screenshot from HTML-CSS course](https://github.com/Rhoxolan/HTML5-CSS3_Course/blob/main/2022.11.07_PW/SendMessage_screenshot.png)<br><br>
 
 ### [UML-Design_Patterns_Course](https://github.com/Rhoxolan/UML-Design_Patterns_Course)<br>
 Practical works and homeworks on the subject "UML and Design Patterns" (09.11.2022 - 25.11.2022; 17.12.2022) at STEP IT Academy in Kryvyi Rih.<br><br>
+![User case diagram from UML-Patterns course](https://github.com/Rhoxolan/UML-Design_Patterns_Course/blob/main/2022.11.09_PW/SCS-Calc_2_0_UseCase_Diagram.drawio.png)<br><br>
 
 ### [JavaScript_Basics-JQuery_Course](https://github.com/Rhoxolan/JavaScript_Basics-JQuery_Course)<br>
 Practical works and homeworks on the subject "JavaScript scripting language and jQuery library" (28.11.2022 - 13.01.2023) at STEP IT Academy in Kryvyi Rih.<br><br>
