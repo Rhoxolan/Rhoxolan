@@ -20,7 +20,15 @@ See my other projects and my education materials such as practical works and hom
 
 <details>
   <summary><strong>Other projects and education materials</strong></summary>
-
+  
+## Other projects
++ ### [SCS-Calc 1.1](https://github.com/Rhoxolan/SCS-Calc_1.1)<br>
+Unreleased version of windows desktop application for calculation of structured cabling installation necessary cable meterage, into account the requirements of the ISO/IEC 11801 standard. Work was carried from 28.08.2022 to 25.09.2022; work on version 2.0 was started.<br>
+Language: C#<br>
+Development framework: Windows Forms, .NET 6<br>
+Target platform: Windows Desktop<br><br>
+  
+## Education materials
 + ### [Менеджер Дел](https://github.com/Rhoxolan/Menedzher_Del)<br>
 Examination work on the subject "Basics of programming on C++" at STEP IT Academy in Kryvyi Rih. Presented on 23.05.2021.<br><br>
 ![Menedzher Del Screenshot](https://github.com/Rhoxolan/Menedzher_Del/blob/master/Screenshots/Screenshot1.png)<br><br>
@@ -44,12 +52,6 @@ Practical works and homeworks on the subject "ADO.NET databases access technolog
 
 + ### [System_Programming_Course](https://github.com/Rhoxolan/System_Programming_Course)<br>
 Practical works and homeworks on the subject "System programming" (15.08.2022 - 05.09.2022) at STEP IT Academy in Kryvyi Rih.<br><br>
-  
-+ ### [SCS-Calc 1.1](https://github.com/Rhoxolan/SCS-Calc_1.1)<br>
-Unreleased version of windows desktop application for calculation of structured cabling installation necessary cable meterage, into account the requirements of the ISO/IEC 11801 standard. Work was carried from 28.08.2022 to 25.09.2022; work on version 2.0 was started.<br>
-Language: C#<br>
-Development framework: Windows Forms, .NET 6<br>
-Target platform: Windows Desktop<br><br>
 
 + ### [Network_Programming_Course](https://github.com/Rhoxolan/Network_Programming_Course)<br>
 Practical works and homeworks on the subject "Network programming" (07.09.2022 - 23.09.2022) at STEP IT Academy in Kryvyi Rih.<br><br>
