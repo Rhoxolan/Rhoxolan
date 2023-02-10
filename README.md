@@ -5,6 +5,7 @@ Language: C#<br>
 Development framework: WPF, .NET 7<br>
 Target platform: Windows Desktop<br>
 Architecture pattern: MVVM<br>
+Work was carried: 02.10.2022 - 10.02.2023<br>
 Release date: coming soon<br>
 ### [Screenshot coming soon]<br><br>
 
