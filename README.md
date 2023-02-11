@@ -28,7 +28,6 @@ Unreleased version of windows desktop application for calculation of structured 
 Language: C#<br>
 Development framework: Windows Forms, .NET 6<br>
 Target platform: Windows Desktop<br><br>
-![SCS_Calc_1_1_screenshot1](https://github.com/Rhoxolan/SCS-Calc_1.1/blob/master/Screenshots/Screenshot_1.png)<br><br>
   
 ## Education materials
 + ### [Менеджер Дел](https://github.com/Rhoxolan/Menedzher_Del)<br>
