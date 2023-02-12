@@ -17,11 +17,11 @@ Target platform: Windows Desktop<br>
 Release date: 05.06.2022<br><br>
 
 # Other projects and education materials
-See my other projects and my education materials such as practical works and homeworks on the disclosure widget!<br>
-### CLICK THAT 	&#8595;	&#8595;	&#8595;
+See my other projects and my education materials such as practical works and homeworks on the disclosure widget!<br><br>
+### CLICK THAT &#8595; &#8595; &#8595;
 
 <details>
-  <summary><strong>Other projects and education materials</strong></summary>
+  <summary><h2>Other projects and education materials</h2></summary>
   
 ## Other projects
 + ### [SCS-Calc 1.1](https://github.com/Rhoxolan/SCS-Calc_1.1)<br>
