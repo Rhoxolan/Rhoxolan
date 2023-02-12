@@ -18,7 +18,7 @@ Release date: 05.06.2022<br><br>
 
 # Other projects and education materials
 See my other projects and my education materials such as practical works and homeworks on the disclosure widget!<br>
-#### CLICK THAT 	&#8595;	&#8595;	&#8595;
+### CLICK THAT 	&#8595;	&#8595;	&#8595;
 
 <details>
   <summary><strong>Other projects and education materials</strong></summary>
