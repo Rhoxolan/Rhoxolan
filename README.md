@@ -17,7 +17,8 @@ Target platform: Windows Desktop<br>
 Release date: 05.06.2022<br><br>
 
 # Other projects and education materials
-See my other projects and my education materials such as practical works and homeworks on the disclosure widget!<br>
+See my other projects and my education materials such as practical works and homeworks on the disclosure widget!<br><br>
+**Click that to watch &#8595; &#8595; &#8595;**<br>
 
 <details>
   <summary><h2>Other projects and education materials</h2></summary>
