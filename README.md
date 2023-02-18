@@ -7,7 +7,7 @@ Target platform: Windows Desktop<br>
 Architecture pattern: MVVM<br>
 Work was carried: 02.10.2022 - 10.02.2023<br>
 Release date: coming soon<br><br>
-<img src="https://github.com/Rhoxolan/SCS-Calc_2.0/blob/master/Screenshots/Screenshot_1.png" alt="SCS_Calc_2_0_screenshot" height="750"><br><br>
+<img src="https://github.com/Rhoxolan/SCS-Calc_2.0/blob/master/Screenshots/Screenshot_1.png" alt="SCS_Calc_2_0_screenshot" height="700"><br><br>
 
 + ### [SCS-Calc](https://github.com/Rhoxolan/SKS-Calc)<br>
 Windows desktop application for calculation of structured cabling installation necessary cable meterage, into account the requirements of the ISO/IEC 11801 standard.<br>
