@@ -6,8 +6,8 @@ Development framework: WPF, .NET 7<br>
 Target platform: Windows Desktop<br>
 Architecture pattern: MVVM<br>
 Work was carried: 02.10.2022 - 10.02.2023<br>
-Release date: coming soon<br>
-### [Screenshot coming soon]<br><br>
+Release date: coming soon<br><br>
+![SCS_Calc_2_0_screenshot](https://github.com/Rhoxolan/SCS-Calc_2.0/blob/master/Screenshots/Screenshot_1.png)<br><br>
 
 + ### [SCS-Calc](https://github.com/Rhoxolan/SKS-Calc)<br>
 Windows desktop application for calculation of structured cabling installation necessary cable meterage, into account the requirements of the ISO/IEC 11801 standard.<br>
